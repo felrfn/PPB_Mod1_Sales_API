@@ -2,3 +2,9 @@
 /node_modules
 
 *Postman*.json
+
+# Hidden folder for Assistant (Challenges)
+challenges_asisten/
+
+# Solusi Demo untuk Asisten
+solution_demo/
